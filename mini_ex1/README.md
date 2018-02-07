@@ -1,1 +1,2 @@
-![alt text](mini_ex_1.png) 
+![alttext](mini_ex_1.png)
+
