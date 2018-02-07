@@ -1,2 +1,2 @@
 # miniexes_real
-![alt text](navn.png "description goes here") 
+![alt text](220px-SNice.svg.png "description goes here") 
