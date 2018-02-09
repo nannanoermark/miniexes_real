@@ -13,3 +13,4 @@ Reading and writing seems very natural to me and happens very quickly in a lot o
 
 Coding practice is new way of thinking and express yourself creatively and is not just seen a mathematical form. Technology in general is fast evolving and the endless ways of working with programming creates new possibilities for communicating. 
 
+https://rawgit.com/nannanoermark/miniexes_real/master/mini_ex1/empty-example/index.html
