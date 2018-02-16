@@ -8,3 +8,5 @@ I wanted to make it possible to place to mouth of the clown anywhere on the scre
 
 •	What is fun? To what extend your program addresses Goriunova's noton of fun? Is it fun in relation to geekiness, or humour, or paradox, or other modes of thoughts? (This question requires your articulation of your work beyond just describing how it works technically)
 This program refers to the quite simple and childish humour. As Goriunova explains, fun should be seen as more than just laughter and absurdity, but the notion of fun can also be found when we use our logic and try to go beyond the possible in for example programming. I wanted to take it back to the “childish” notion of fun. There’s no actual goal in the program, just the quirky function of moving the mouth around, so that the clown looks whimsical. 
+
+
