@@ -1,3 +1,5 @@
+![ScreenShot](https://github.com/nannanoermark/miniexes_real/blob/master/minex_2/clownhehe.JPG)
+
 Mini_ex_2 
 •	Describe your program and what you have used and learnt
 
