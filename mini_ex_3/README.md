@@ -1,3 +1,5 @@
+![Screenshot](https://github.com/nannanoermark/miniexes_real/blob/master/mini_ex_3/minthrobber.JPG)
+
 
 Describe about your throbber design, both conceptually and technically.
 •	What is the time-related syntax/function that you have used in your program? and why you use in this way?
