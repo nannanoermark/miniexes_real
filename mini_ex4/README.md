@@ -8,3 +8,4 @@ It does contain the theme “capture all” in a simple form, since we as users 
 
 In this program, it’s just changing of grey colors, but we keep clicking anyways. When we are told not to, it’s even more tempting. Like last week theme, we put much thought into the design of throbber or buttons, but someone made choices about the appearance and it’s functions and with buttons they are designed so the program can run accordingly to plan. So, that’s why there are clear deviations for the user to make in this program, to make the user relfect a bit upon buttons functionality in general. 
 
+https://rawgit.com/nannanoermark/miniexes_real/master/mini_ex4/empty-example/index.html
