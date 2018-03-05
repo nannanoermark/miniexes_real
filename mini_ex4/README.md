@@ -1,3 +1,6 @@
+![Screenshot](https://github.com/nannanoermark/miniexes_real/blob/master/mini_ex4/capture.JPG)
+
+
 This week’s mini week is not something that I am particularly happy with. At the beginning of the week I did have a lot of plans of what this program could contain, but after many hours of trying to program what I intended (and failed), I just had to stick to something very simple, that doesn’t really have a lot user interaction. For some reason, I thought week was the most challenging one of them all, so far. But I managed to make a button that has the mousePressed (); function, that makes random grey colors on the canvas and a drop - down menu that states which kind of student you are on the canvas and furthermore a link that connects you to the Transmediale website and this is the CreateA(); function. 
 
 
