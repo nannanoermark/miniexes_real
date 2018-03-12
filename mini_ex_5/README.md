@@ -1,3 +1,6 @@
+![Screenshot](https://github.com/nannanoermark/miniexes_real/blob/master/mini_ex_5/circles.JPG)
+
+
 •	Describe how does your game/game object works?
 
 
