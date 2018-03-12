@@ -19,3 +19,4 @@ In object-oriented programming the object contains both the management of data a
 
 
 So basically, OOP reduces the original very complex nature of programming by modularity, so a small in the program have a big impact on the outcome. Like last week, with the data capture theme it got me thinking that a function such as mousepressed(); or classes and attributes again produces a certain feeling of “freedom” when we click the mouse or in broader terms, when we control an object in other ways. But, it’s always constrained by the code. This seem obvious to trained programmers, but when “normal” browsing the web for example, every website is limited to the overall classes, objects and attributes and think that’s an interesting thought. 
+
