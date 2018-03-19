@@ -1,3 +1,5 @@
+![Screenshot](https://github.com/nannanoermark/miniexes_real/blob/master/mini_ex_6/generativity.JPG)
+
 •	What are the rules in your generative program and describe how your program performs over time. What have been generated?
 
 Rules of my program: 
