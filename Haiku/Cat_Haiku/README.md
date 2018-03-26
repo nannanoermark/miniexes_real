@@ -17,11 +17,6 @@ But when we use our computers a new language is present - the machine language. 
 We had an idea of what we wanted to create. Once we began, we tried using Winnie’s code to have multiple sound files with text. This quickly came to work properly, but then we had some troubles with the .js file. This file had all the queer text in it, so we thought, why not change some of these so that the code itself represents what our product is about - cats. But no matter how little text we tried to change we had an error. So in the end we could only change some parameters in Winnie’s code, but not all that we wanted to do. 
 
 
-
-![alt tekst](recaptcha.PNG)
-
-
-
 ### The process of working in collaboration with code:
 In this exercise we have worked with the Atom Teletype to be able to change and edit code together at both our computers. This has proven to be a very great way to express our ideas together, instead of just saying the code out loud. By doing so we had the chance of seeing multiple solutions much quicker than if we had to make this exercise by ourselves. The only immediate problem we had by using teletype was that only one of us could have the “master” code on our computer, which meant that it wasn’t possible to look at the code individually at home. But there must be some kind of solution to this, since it would make the process a whole lot easier. 
 
