@@ -1,5 +1,5 @@
 
-![Screenshot](
+![Screenshot](https://github.com/nannanoermark/miniexes_real/blob/master/mini_ex8/toilet.JPG)
 
 UTOPIA (Unisex Toilet Overview Provider Internet Application)
 
