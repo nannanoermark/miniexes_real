@@ -35,6 +35,8 @@ Do we want the user to be able to upload their own photo, and make the computer 
 
 ![Screenshot](https://github.com/nannanoermark/miniexes_real/blob/master/mini_ex_9/FLOWCHART.JPG)
 
+https://github.com/nannanoermark/miniexes_real/tree/master/mini_ex8
+
 My own flowchart is way simpler and my flowchart it’s not demanded for the code to recognize patterns or calculate in the same way, because with these two projects we are creating for the final project, we are trying to make it look the computer has opinion, in my flowchart it’s simply proving information. But, to make a comparison the computer is still asked to complete a task, it’s not thinking it’s themselves, so it’s the programs are not that far apart. 
 
 Algorithms are becoming solutions to almost an infinite amount of problems in our technological society. I think it’s interesting, the thought that people are adapting to that fact. The examples like making hashtags and speaking louder and clearer when using Siri for example, could be a sign, that we as humans are putting way more trust and liability in something we don’t understand. Computational algorithms started as way to make everything faster and now it’s infiltrated in almost everything we do, that we are the ones to conform. But, as it’s pointed out by Ed Finn in “What Algorithms want”, the algorithms, the technology is not independent from humans. It’s roots are build by humans and therefore they become “culture machines” (page 18).
