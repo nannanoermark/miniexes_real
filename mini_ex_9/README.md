@@ -1,3 +1,6 @@
+![Screenshot](https://github.com/nannanoermark/miniexes_real/blob/master/mini_ex_9/analyzer.JPG)
+
+
 Project 1: Captcha
 We are going create our own Captcha-program. The Captcha tries to figure whether the user of a certain program is a human or not. This is to avoid spamming or viruses in the program. The Captcha will for example ask you to write down a couple of letters to confirm your humanity. Our hope is to create an unreasonable Captcha with several levels to achieve. The levels could require to make use of sight and hearing senses or intelligence skills. The point is to make it difficult for the user to attain accessibility to the program in the end. This is to show how natural language and code/machine language differentiate from each other. The goal is in the end to show the differences between human-thinking and computational-thinking inspired by The Turing Test.
 
@@ -18,5 +21,7 @@ How do we teach the computer which picture is the most beautiful one?
 The technical aspect of making the browser analyse a set of photos in relation of how much blues ex. the photo is made of, does seem like a hard thing to do. But it is a thing we think we are capable of making, but it would take some time. To make the computer able to determine itself we need to make some kind of RGB or HSV checking on pixels. Otherwise we would have to give each picture a predetermined value.
 Another thing worth thinking of, is to choose how many pictures we want the user to be able to choose from - and what this does to the program.
 Do we want the user to be able to upload their own photo, and make the computer analyze the data? Or should we just put in 10 available images, that we have made the computer analyze beforehand? 
+
+My own flowchart is way simpler and my flowchart it’s not demanded for the code to recognize patterns or calculate in the same way, because with these two projects we are creating for the final project, we are trying to make it look the computer has opinion, in my flowchart it’s simply proving information. But, to make a comparison the computer is still asked to complete a task, it’s not thinking it’s themselves, so it’s the programs are not that far apart. 
 
 Algorithms are becoming solutions to almost an infinite amount of problems in our technological society. I think it’s interesting, the thought that people are adapting to that fact. The examples like making hashtags and speaking louder and clearer when using Siri for example, could be a sign, that we as humans are putting way more trust and liability in something we don’t understand. Computational algorithms started as way to make everything faster and now it’s infiltrated in almost everything we do, that we are the ones to conform. But, as it’s pointed out by Ed Finn in “What Algorithms want”, the algorithms, the technology is not independent from humans. It’s roots are build by humans and therefore they become “culture machines” (page 18).
